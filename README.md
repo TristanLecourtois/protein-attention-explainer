@@ -11,7 +11,7 @@
   ![License](https://img.shields.io/badge/License-MIT-22c55e)
 
   <br/>
-  <img src="figures/demo1.png" alt="Protein Attention Explainer" width="360"/>
+  <img src="figures/logo.png" alt="Protein Attention Explainer" width="360"/>
 
 </div>
 
