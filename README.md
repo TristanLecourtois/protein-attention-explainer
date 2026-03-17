@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="figures/logo.png" alt="Protein Attention Explainer" width="720"/>
-  <br/><br/>
 
   # 🧬 Protein Attention Explainer
 
-  **Visualize how ESMFold builds a 3D structure from sequence via its attention maps**
+  **Interactive 3D visualization of ESMFold attention maps projected onto predicted protein structures — explore how transformer layers encode local contacts, secondary structure, and long-range fold topology.**
 
   ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch&logoColor=white)
   ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
   ![Molstar](https://img.shields.io/badge/Mol%2A-4.x-6B46C1)
   ![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-009688?logo=fastapi&logoColor=white)
   ![License](https://img.shields.io/badge/License-MIT-22c55e)
+
+  <br/>
+  <img src="figures/demo1.png" alt="Protein Attention Explainer" width="360"/>
 
 </div>
 
