@@ -2,7 +2,7 @@
 
   # 🧬 Protein Attention Explainer
 
-  **Interactive 3D visualization of ESMFold attention maps projected onto predicted protein structures — explore how transformer layers encode local contacts, secondary structure, and long-range fold topology.**
+  **Interactive 3D visualization of ESMFold attention maps projected onto predicted protein structures : explore how transformer layers encode local contacts, secondary structure, and long-range fold topology.**
 
   ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
   ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
@@ -20,6 +20,12 @@ Attention maps from ESM-2 (33 layers × 20 heads) projected onto the predicted 3
 ```
 sequence -> ESMFold -> PDB + attention [L, H, N, N] -> 3D viewer with attention overlay
 ```
+
+## Demo
+
+<div align="center">
+  <img src="figures/demo.gif" alt="Demo" width="720"/>
+</div>
 
 ## Features
 
